@@ -25,4 +25,6 @@ int main () {
 		cout<<abs (x-y)<<endl;
 		cout<<"Hasil Positif";
 	}
+	
 }
+
